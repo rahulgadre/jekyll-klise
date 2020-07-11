@@ -6,7 +6,7 @@ description: >- # site description
 lang: en-US # default lang
 timezone: America/Denver # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
-repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
+# repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
 mode: dark # default theme "dark" | "light"
 
 # Profile settings
@@ -14,7 +14,7 @@ author:
   name: Rahul Gadre # author name
   bio: >- # tell to the world
     <a href="https://twitter.com/rggadre" target="_blank" rel="noopener">@Twitter</a> 
-    <a href="https://www.linkedin.com/in/rahulgadre/" target="_blank" rel="noopener">@LinkedIn</a>.
+    <a href="https://www.linkedin.com/in/rahulgadre/" target="_blank" rel="noopener">@LinkedIn</a>
     
   username: rahulgadre, rggadre # social media username eg. github, twitter 
 #  email: your-email@email.com # your contact adress
