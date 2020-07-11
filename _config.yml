@@ -15,9 +15,10 @@ author:
   bio: >- # tell to the world
     <a href="https://twitter.com/rggadre" target="_blank" rel="noopener">@Twitter</a> 
     <a href="https://www.linkedin.com/in/rahulgadre/" target="_blank" rel="noopener">@LinkedIn</a>
-    
-  username: rahulgadre, rggadre # social media username eg. github, twitter 
-#  email: your-email@email.com # your contact adress
+    <a href="https://github.com/rahulgadre" target="_blank" rel="noopener">@GitHub</a>
+
+# username: rahulgadre, rggadre # social media username eg. github, twitter 
+# email: your-email@email.com # your contact adress
   avatar: /assets/img/newme.jpg # change with your own avatar
 
 # Url settings
