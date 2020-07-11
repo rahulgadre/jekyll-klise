@@ -17,10 +17,10 @@ I received a B.E in Electronics Engineering from University of Mumbai and a Mast
 
 ### Certifications:
 
-🏆 AWS Certified Cloud Practitioner
-🏆 AWS Certified Solutions Architect Associate
-🏆 Microsoft Certified Azure Fundamentals
-🏆 Cisco Certified Network Associate - Retired
+- 🏆 AWS Certified Cloud Practitioner
+- 🏆 AWS Certified Solutions Architect Associate
+- 🏆 Microsoft Certified Azure Fundamentals
+- 🏆 Cisco Certified Network Associate - Retired
 
 ### Honors & Awards:
 
@@ -39,6 +39,6 @@ Description: New York Business Plan Competition
 #### Best Together Everyone Achieves More (Team) Award – March 2012
 Description: Won the best team award at HSBC software India pvt Ltd.
 
-##### GitHub ✨
+
 # - {{ site.author.email }}
-- github.com/{{ site.author.username }}
+# - github.com/{{ site.author.username }}
