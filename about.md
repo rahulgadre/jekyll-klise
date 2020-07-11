@@ -1,6 +1,6 @@
 ---
 title: About Me
-permalink: /About/
+permalink: /about/
 layout: page
 excerpt: My intro
 comments: false
