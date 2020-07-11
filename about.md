@@ -33,6 +33,5 @@ Description: New York Business Plan Competition
 Description: Won the best team award at HSBC software India pvt Ltd.
 
 ##### GitHub ✨
-
 # - {{ site.author.email }}
 - github.com/{{ site.author.username }}
