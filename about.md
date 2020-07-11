@@ -38,7 +38,3 @@ Description: New York Business Plan Competition
 
 #### Best Together Everyone Achieves More (Team) Award – March 2012
 Description: Won the best team award at HSBC software India pvt Ltd.
-
-
-# - {{ site.author.email }}
-# - github.com/{{ site.author.username }}
