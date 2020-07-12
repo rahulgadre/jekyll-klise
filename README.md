@@ -1,7 +1,7 @@
-# Klisé
+# My blog site
 
-Klisé is minimalist Jekyll theme for running a personal site and blog running on Jekyll.<br>
-For demo <a href="https://klise.now.sh" target="_blank" rel="noopener">klise.now.sh</a>
+This is my personal blog site.<br>
+For demo <a href="https://rahulgadre.github.io/" target="_blank" rel="noopener">Rahul Gadre</a>
 
 ## Features
 
