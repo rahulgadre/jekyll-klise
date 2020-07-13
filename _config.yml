@@ -12,9 +12,9 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Rahul Gadre # author name
   bio: >- # tell to the world
-    <a href="https://twitter.com/rggadre" target="_blank" rel="noopener">@Twitter</a> 
-    <a href="https://www.linkedin.com/in/rahulgadre/" target="_blank" rel="noopener">@LinkedIn</a>
-    <a href="https://github.com/rahulgadre" target="_blank" rel="noopener">@GitHub</a>
+    <a href="https://twitter.com/rggadre" target="_blank" rel="noopener">Twitter |</a> 
+    <a href="https://www.linkedin.com/in/rahulgadre/" target="_blank" rel="noopener">LinkedIn |</a>
+    <a href="https://github.com/rahulgadre" target="_blank" rel="noopener">GitHub</a>
 
 # username: rahulgadre, rggadre # social media username eg. github, twitter 
 # email: your-email@email.com # your contact adress
