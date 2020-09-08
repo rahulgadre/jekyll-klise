@@ -8,7 +8,11 @@
 
 - title: resume
   url: https://rahulgadre.github.io/resume/
-  external: true # set true if you using external link, see bellow
+  external: true # set true if you using external link, see below
+
+- title: posts
+  url: /myposts.html
+  external: false
 
 # Example:
 # - title: github
