@@ -10,6 +10,10 @@
   url: https://rahulgadre.github.io/resume/
   external: true # set true if you using external link, see below
 
+- title: blog
+  url: https://blog.rahulgadre.com/
+  external: true # set true if you using external link, see below
+
 # Example:
 # - title: github
 #   url: https://github.com/piharpi/jekyll-klise
