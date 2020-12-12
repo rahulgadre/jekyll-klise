@@ -6,8 +6,9 @@ excerpt: My intro
 comments: false
 ---
 
-I am a Senior Systems Engineer and currently work at Avaya. I am part of the ASP 100 and 4200 product design and development R&D team. I have been actively involved in designing, testing, and deployment of Avaya’s ASP products.
-Prior to my new role, I used to manage Avaya’s Highlands Ranch data center. My expertise include data center administration, DevOps and automation, and cloud computing. I have also achieved multiple cloud certifications from AWS and Microsoft Azure.
+I am a Cloud Support Engineer II and currently work for Amazon Web Services. I am part of the Linux team and work on various AWS services to solve complex customer issues. I troubleshoot application deployments, recreate customer issues, and build proof of concept applications. My responsibilities also include creating tutorials, how-to videos, and other technical articles for internal and customer communities. 
+
+Prior to joining AWS, I worked at Avaya and was part of the ASP 100 and 4200 product design and development R&D team. I had been actively involved in designing, testing, and deployment of Avaya’s ASP products. In my first role at Avaya, I used to manage Avaya’s Highlands Ranch data center. My expertise included data center administration, DevOps and automation, and cloud computing. I have also achieved multiple cloud certifications from AWS and Microsoft Azure.
 
 Prior to joining Avaya, I worked as a Network Engineering Intern at NRG Energy and Finger Lakes Technologies Group. My internship experiences helped me gain skills about customer support, network administration, hardware deployment, and system administration.
 
