@@ -18,8 +18,9 @@ I received a Bachelor of Engineering degree in Electronics Engineering from Univ
 
 ### Certifications:
 
--  🏆 AWS Certified Cloud Practitioner
+-  🏆 AWS Certified SysOps Administrator Associate
 -  🏆 AWS Certified Solutions Architect Associate
+-  🏆 AWS Certified Cloud Practitioner
 -  🏆 Microsoft Certified Azure Fundamentals
 -  🏆 Cisco Certified Network Associate - Retired
 
