@@ -14,7 +14,7 @@ Blog site: <a href="https://rahulgadre.github.io/" target="_blank" rel="noopener
 
 ## 💌 Get in touch
 - Twitter: [@rggadre](https://twitter.com/rggadre)
-- Personal Website: [https://rahulgadre.github.io/](https://rahulgadre.github.io/)
+- Personal Website: [https://rahulgadre.com](https://rahulgadre.com)
 - LinkedIn: [Linkedin](https://www.linkedin.com/in/rahulgadre/)
 - Dev.to: [https://dev.to/rahulgadre](https://dev.to/rahulgadre)
 
