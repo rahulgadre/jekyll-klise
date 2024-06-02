@@ -19,6 +19,7 @@ I received a Bachelor of Engineering degree in Electronics Engineering from Univ
 ### Certifications:
 
 -  🏆 AWS Certified Solutions Architect Professional
+-  🏆 AWS Certified DevOps Engineer Professional
 -  🏆 AWS Certified Developer Associate
 -  🏆 AWS Certified SysOps Administrator Associate
 -  🏆 AWS Certified Solutions Architect Associate
