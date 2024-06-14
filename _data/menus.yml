@@ -10,6 +10,10 @@
   url: /notes/
   external: false
 
+- title: RGG Blogs
+  url: /notepad/
+  external: false
+
 - title: resume
   url: https://rahulgadre.github.io/resume/
   external: true # set true if you using external link, see below
